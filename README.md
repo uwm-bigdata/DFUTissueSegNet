@@ -26,3 +26,9 @@
 	<img src="/Resources/Table5.png">
 </div>
 <br><br>
+
+### Results for the chronic wound dataset
+<div align="center">
+	<img src="/Resources/Table9.png">
+</div>
+<br><br>
