@@ -1,5 +1,8 @@
 # DFUTissueSegNet
 
+### Reference
+![Manuscript]()
+
 ### Model
 <div align="center">
 	<img src="/Resources/model.png">
