@@ -2,7 +2,7 @@
 
 ### Model
 <div style="text-align: center;">
-  <img src="/Resources/model.png" alt="model"/>
+  <img src="/Resources/model.png" alt="model" width="300"/>
 </div>
 
 ### Instruction
