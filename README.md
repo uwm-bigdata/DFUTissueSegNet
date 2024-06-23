@@ -2,6 +2,7 @@
 
 ### Model
 ![model](/Resources/model.png)
+<img src="images/example.png" alt="Example Image" width="300" />
 
 ### Instruction
 * Step-1: Run `Codes/supervised_training.ipynb`. This code is to train the hybrid model using labeled data. 
