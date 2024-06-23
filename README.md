@@ -1,7 +1,7 @@
 # DFUTissueSegNet
 
 ### Model
-
+Model (!https://github.com/uwm-bigdata/DFUTissueSegNet/tree/main/Resources/model.png)
 
 ### Instruction
 * Step-1: Run `Codes/supervised_training.ipynb`. This code is to train the hybrid model using labeled data. 
