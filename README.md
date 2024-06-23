@@ -5,6 +5,9 @@
 	<img src="/Resources/model.png">
 </div>
 
+### DFUTissue Dataset
+The DF
+
 ### Instruction
 * Step-1: Run `Codes/supervised_training.ipynb`. This code is to train the hybrid model using labeled data. 
 * Step-2: Run `Codes/pseudo_label_generation_phase1.ipynb`. This code predictions (pseudo labels) from unsupervised images (no labels) using the trained model obtained after the supervised phase.
