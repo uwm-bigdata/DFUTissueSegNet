@@ -6,7 +6,7 @@
 </div>
 
 ### DFUTissue Dataset
-The DF
+We created the DFUTissue dataset with the Advancing the Zenith of Healthcare (AZH) Wound Center in Milwaukee, WI, to segment granulation, fibrin, and callus tissues in diabetic foot ulcers (DFUs). The dataset includes 110 annotated foot ulcer images: 78 for training, 16 for validation, and 16 for testing, maintaining a 70:15:15 split. The images, sourced from the AZH Wound Center, were initially annotated by the Big Data Analytics and Visualization Lab at UWM and refined by AZH wound specialists. The dataset covers eight tissue categories: granulation, callus, fibrin, necrotic, eschar, neodermis, tendon, and dressing. Wound care specialists kept dry necrotic tissues but removed damp necrotic tissues. Annotating wound tissues is challenging due to less defined boundaries and irregular shapes. The paper focuses on granulation, callus, and fibrin tissues due to the limited number of images for the other categories. 
 
 ### Instruction
 * Step-1: Run `Codes/supervised_training.ipynb`. This code is to train the hybrid model using labeled data. 
