@@ -1,12 +1,7 @@
 # DFUTissueSegNet
 
 ### Model
-
-<figure style="text-align: center;">
-  <img src="/Resources/model.png" alt="Example Image" width="300"/>
-  <figcaption>Example Image</figcaption>
-</figure>
-
+![model](/Resources/model.png)
 
 ### Instruction
 * Step-1: Run `Codes/supervised_training.ipynb`. This code is to train the hybrid model using labeled data. 
