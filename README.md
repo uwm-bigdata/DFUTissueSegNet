@@ -17,12 +17,12 @@
 <div align="center">
 	<img src="/Resources/Table3.png">
 </div>
-
+<br><br>
 <div align="center">
 	<img src="/Resources/Table4.png">
 </div>
-
+<br><br>
 <div align="center">
 	<img src="/Resources/Table5.png">
 </div>
-
+<br><br>
