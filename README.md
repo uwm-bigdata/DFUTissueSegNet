@@ -21,26 +21,24 @@ We created the DFUTissue dataset with the Advancing the Zenith of Healthcare (AZ
 * Step-6: Repeat Step-4 and Step-5 until there is no improvement in the validation loss.
 
 ### Results for the DFUTissue dataset
-<br><br>
+
 <div align="center">
 	<img src="/Resources/Table3_.png">
 </div>
-<br><br>
+<br>
 
-<br><br>
 <div align="center">
 	<img src="/Resources/Table4_.png">
 </div>
-<br><br>
+<br>
 
-<br><br>
 <div align="center">
 	<img src="/Resources/Table5.png">
 </div>
-<br><br>
+<br>
 
 ### Results for the chronic wound dataset
 <div align="center">
 	<img src="/Resources/Table9.png">
 </div>
-<br><br>
+<br>
