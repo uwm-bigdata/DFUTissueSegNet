@@ -14,3 +14,15 @@
 * Step-6: Repeat Step-4 and Step-5 until there is no improvement in the validation loss.
 
 ### Results for the DFUTissue dataset
+<div align="center">
+	<img src="/Resources/Table3.png">
+</div>
+
+<div align="center">
+	<img src="/Resources/Table4.png">
+</div>
+
+<div align="center">
+	<img src="/Resources/Table5.png">
+</div>
+
