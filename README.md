@@ -13,3 +13,4 @@
 * Step-5: Run `Codes/semisupervised_training_phase2.ipynb`. This code again trains the model 5 times. However, this time training images will be 78 (original labeled tissue data) + 50 (unsupervised images that generated the best model in the previous phase) + 50 (randomly picked images from the remaining unsupervised images along with their pseudo labels in this phase).
 * Step-6: Repeat Step-4 and Step-5 until there is no improvement in the validation loss.
 
+### Results for the DFUTissue dataset
