@@ -1,7 +1,7 @@
 # DFUTissueSegNet
 
 ### Citation
-Cite the following paper if you use the DFUTissue dataset: <br><br>
+Cite the following paper if you use the DFUTissue dataset: <br>
 
 > *Dhar, Mrinal K., et al. "Wound Tissue Segmentation in Diabetic Foot Ulcer Images Using Deep Learning: A Pilot Study." ArXiv, 2024,  /abs/2406.16012.*
 
